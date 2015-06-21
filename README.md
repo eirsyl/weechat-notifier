@@ -1,6 +1,8 @@
 weechat-notifier
 ================
 
+[![Join the chat at https://gitter.im/eirsyl/weechat-notifier](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eirsyl/weechat-notifier?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 WeeChat notifications on OS X using Weechat relay protocol.
 
 
